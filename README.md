@@ -1,6 +1,6 @@
 # Robot Arm Control Panel
 
-This Django web application allows you to control and manage the poses of a 6-DOF robot arm using motor sliders (Motor 1 to Motor 6). It includes saving, loading, resetting, and executing movements through a user-friendly interface.
+This Django web application allows you to control and manage the poses of a 6-DOF robot arm using motor sliders (Motor 1 to Motor 6). It includes saving, loading, resetting, and executing movements.
 
 ## Features
 
